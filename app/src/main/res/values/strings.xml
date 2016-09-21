@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DrawerMenu</string>
+    <string name="drawer_menu_home_title">首页</string>
+    <string name="drawer_menu_notification_title">通知</string>
+    <string name="drawer_menu_setting_title">软件设置</string>
+    <string name="drawer_menu_logout_title">退出登录</string>
+    <string name="userName">playing_the_fool</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+</resources>
